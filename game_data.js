@@ -4,7 +4,7 @@ const stepsData = [
     {
         title: "Les motivations",
         subtitle: "Espagne, 1518",
-        image: "/mnt/user-data/uploads/Cortès_portrait.jpg",
+        image: "/images/Cortès_portrait.jpg",
         narrative: "Vous êtes Hernán Cortés, hidalgo sans fortune à Cuba. Des récits fabuleux parlent de cités d'or au Yucatán, rapportés par l'expédition de Juan de Grijalva. À 34 ans, vous avez déjà tenté l'aventure aux Antilles, mais sans grand succès. Le gouverneur Velázquez cherche un capitaine pour une nouvelle expédition. Cette fois, c'est votre chance de faire fortune, d'obtenir gloire et reconnaissance. Mais pourquoi vraiment partir ?",
         essential: "Les explorateurs du XVIe siècle cherchaient ce qu'on appelait « Dieu, Or et Gloire » : évangéliser les païens, s'enrichir personnellement, et obtenir renommée et pouvoir politique. Ces trois motivations étaient souvent entremêlées et justifiaient des entreprises extrêmement risquées.",
         moreInfo: `
@@ -62,7 +62,7 @@ const stepsData = [
     {
         title: "Financement de l'expédition",
         subtitle: "Cuba, février 1519",
-        image: "/mnt/user-data/uploads/Navires_cortes.jpg",
+        image: "/images/Navires_cortes.jpg",
         narrative: "Le gouverneur Velázquez vous confie l'expédition mais limite le budget. Vous devez équiper 11 navires et 550 hommes pour plusieurs mois en territoire inconnu. Le coût est énorme : navires, vivres, armes, chevaux... Velázquez apporte un tiers du financement, mais c'est insuffisant. Vous devez emprunter massivement, hypothéquer vos biens, convaincre des investisseurs. Chaque peso dépensé ici pourrait faire la différence entre victoire et défaite. Comment allez-vous répartir ce budget limité ?",
         essential: "Les expéditions de conquête n'étaient PAS financées par la Couronne d'Espagne, mais par des investisseurs privés dans un système appelé 'capitulation'. Les conquistadors s'endettaient lourdement et devaient réussir pour rembourser, ce qui explique leur détermination et leur violence.",
         moreInfo: `
@@ -127,7 +127,7 @@ const stepsData = [
     {
         title: "Les innovations techniques",
         subtitle: "En mer, mars 1519",
-        image: "/mnt/user-data/uploads/Navires_cortes.jpg",
+        image: "/images/Navires_cortes.jpg",
         narrative: "En mer vers le Yucatán. Les vagues sont hautes, le vent violent. Votre pilote Antón de Alaminos, qui a navigué avec Colomb et Grijalva, vous explique les instruments qui permettent cette traversée inédite. Sans ces innovations du XVe siècle, aucune exploration au-delà de l'Atlantique ne serait possible. Mais comprendre ces outils, c'est aussi comprendre la domination technique européenne qui vous permettra de conquérir un empire.",
         essential: "Les progrès nautiques du XVe siècle (caravelle, boussole, gouvernail d'étambot, astrolabe, canons embarqués) ont rendu possibles les explorations lointaines. Ces innovations techniques sont au cœur de l'expansion européenne.",
         moreInfo: `
@@ -182,7 +182,7 @@ const stepsData = [
     {
         title: "Le départ de Cuba",
         subtitle: "Cuba, mars 1519",
-        image: "/mnt/user-data/uploads/Cortes_brule_ses_navires.jpeg",
+        image: "/images/Cortes_brule_ses_navires.jpeg",
         narrative: "Tout est prêt. Les 11 navires sont chargés, les 550 hommes impatients. Mais hier soir, un messager vous a réveillé : Velázquez a changé d'avis. Il vous trouve trop ambitieux, trop indépendant. Il veut annuler l'expédition et nommer quelqu'un d'autre. Vos dettes sont écrasantes, vous avez tout investi. Si vous obéissez, vous êtes ruiné à jamais. Le port est encore endormi. Les navires peuvent partir maintenant, en secret. Mais c'est une rébellion ouverte contre l'autorité du gouverneur.",
         essential: "Les conquistadors partaient souvent contre les ordres officiels, dans un système d'investissement privé très risqué. L'insubordination était fréquente car les enjeux financiers étaient énormes.",
         moreInfo: `
@@ -239,7 +239,7 @@ const stepsData = [
     {
         title: "Premiers contacts - Tabasco",
         subtitle: "Côte du Yucatán, mars 1519",
-        image: "/mnt/user-data/uploads/combats_azteques_et_espgnols.png",
+        image: "/images/combats_azteques_et_espgnols.png",
         narrative: "Après deux semaines de navigation, vous débarquez près de Tabasco. Les Mayas locaux vous observent avec méfiance. Vos interprètes tentent de communiquer : vous venez en paix, vous voulez échanger. Mais les Mayas se souviennent de l'expédition de Grijalva l'année dernière : violence, pillages. Ils refusent tout contact. Le lendemain, des milliers de guerriers mayas attaquent votre campement. Vos arquebuses tonnent, vos canons crachent le feu. Les Mayas n'ont jamais vu de chevaux - ils croient que cavalier et monture sont une seule créature monstrueuse. Terrifiés, ils reculent. Vous avez gagné, mais comment consolider cette victoire ?",
         essential: "La supériorité technologique espagnole (armes à feu, chevaux, armures d'acier, canons) a créé un choc psychologique majeur chez les peuples mésoaméricains. Mais les alliances avec les ennemis des Aztèques ont été tout aussi déterminantes que les armes.",
         moreInfo: `
@@ -305,7 +305,7 @@ const stepsData = [
     {
         title: "L'alliance avec Tlaxcala",
         subtitle: "Tlaxcala, septembre 1519",
-        image: "/mnt/user-data/uploads/Codex_azcatitlan_représentation_des_espagnols.jpg",
+        image: "/mimages/Codex_azcatitlan_représentation_des_espagnols.jpg",
         narrative: "Après plusieurs mois de marche vers l'intérieur, vous entrez sur le territoire de Tlaxcala. Votre interprète Malinche vous a expliqué : les Tlaxcaltèques sont les ennemis mortels des Aztèques, qui leur imposent un blocus économique depuis des décennies. Pas de sel, pas de coton, commerce coupé. Mais ils sont aussi fiers et méfiants. Ils vous attaquent d'abord : plusieurs batailles sanglantes. Vos chevaux et canons font la différence, mais vous perdez des hommes. Finalement, les caciques tlaxcaltèques proposent une alliance : ensemble contre Moctezuma. Mais à quelles conditions ?",
         essential: "Les divisions entre peuples mésoaméricains ont été déterminantes dans la conquête. Le système tributaire aztèque, oppressif et violent, avait créé de nombreux ennemis. Les Tlaxcaltèques fourniront jusqu'à 100 000 guerriers à Cortés.",
         moreInfo: `
@@ -369,7 +369,7 @@ const stepsData = [
     {
         title: "Le massacre de Cholula",
         subtitle: "Cholula, octobre 1519",
-        image: "/mnt/user-data/uploads/combats_azteques_et_espgnols.png",
+        image: "/images/combats_azteques_et_espgnols.png",
         narrative: "Vous arrivez à Cholula, grande cité religieuse alliée des Aztèques. Les Cholultèques vous accueillent... froidement. Vos alliés tlaxcaltèques, ennemis ancestraux de Cholula, sont nerveux. Malinche vous réveille en pleine nuit : elle a appris d'une femme cholultèque qu'un piège se prépare. Demain, quand vous traverserez la ville, des milliers de guerriers aztèques cachés vous attaqueront. Les rues étroites seront bloquées, vos chevaux inutiles. C'est un massacre programmé. Ou bien est-ce de la désinformation ? Les Tlaxcaltèques veulent peut-être juste une excuse pour piller leur vieille ennemie. Que faire ?",
         essential: "Le massacre de Cholula (octobre 1519) reste controversé : piège réel ou prétexte ? Cortés a fait massacrer entre 3 000 et 6 000 Cholultèques désarmés dans la place centrale. Stratégie de terreur préventive ou crime de guerre ?",
         moreInfo: `
@@ -435,7 +435,7 @@ const stepsData = [
     {
         title: "Entrée dans Tenochtitlan",
         subtitle: "Tenochtitlan, novembre 1519",
-        image: "/mnt/user-data/uploads/tenochtitlan.avif",
+        image: "/images/tenochtitlan.avif",
         narrative: "8 novembre 1519. Vous approchez de Tenochtitlan par la chaussée d'Iztapalapa. Le spectacle vous coupe le souffle : une cité lacustre immense, bâtie sur une île, reliée à la terre par trois chaussées. Des pyramides, des palais, des jardins flottants (chinampas). 200 000 habitants, peut-être plus. Venise et Séville réunies sembleraient petites à côté. Moctezuma vous accueille en personne, porté sur un palanquin d'or, vêtu de plumes de quetzal. Il vous installe dans le palais d'Axayácatl. Hospitalité parfaite, cadeaux somptueux. Mais vous êtes 400 Espagnols au cœur d'un empire de millions de personnes. Une seule chaussée pour fuir si nécessaire. Un piège ?",
         essential: "L'accueil pacifique de Moctezuma reste l'une des grandes énigmes de l'Histoire. Pourquoi n'a-t-il pas écrasé Cortés quand il en avait la possibilité ? Hésitation politique, calculs diplomatiques, ou influence réelle des prophéties ?",
         moreInfo: `
@@ -504,7 +504,7 @@ const stepsData = [
     {
         title: "La Noche Triste",
         subtitle: "Tenochtitlan, juin 1520",
-        image: "/mnt/user-data/uploads/noche_triste.jpg",
+        image: "/images/noche_triste.jpg",
         narrative: "Le désastre. Pendant votre absence (vous êtes parti combattre une expédition de Velázquez venue vous arrêter), votre lieutenant Pedro de Alvarado a paniqué. Pendant une fête religieuse aztèque dans le Templo Mayor, il a ordonné un massacre : 600 nobles désarmés tués. La population de Tenochtitlan explose de rage. Quand vous revenez, la ville entière s'est révoltée. Moctezuma, votre otage, est tué (par les Espagnols ou par son propre peuple, les versions divergent). Les Aztèques détruisent les ponts des chaussées. Vous êtes piégés. Il faut fuir, de nuit, chargés de l'or que vos hommes refusent d'abandonner. La 'Noche Triste' commence : 30 juin 1520, nuit de cauchemar.",
         essential: "La 'Noche Triste' (Nuit Triste) est la plus grande défaite de Cortés. La violence excessive d'Alvarado a déclenché une révolte populaire aztèque. Cortés perd 600 Espagnols et des milliers d'alliés tlaxcaltèques. La fuite est chaotique et sanglante.",
         moreInfo: `
@@ -574,7 +574,7 @@ const stepsData = [
     {
         title: "Le siège de Tenochtitlan",
         subtitle: "Tenochtitlan, mai-août 1521",
-        image: "/mnt/user-data/uploads/sige_de_tenochtitlan.png",
+        image: "/images/sige_de_tenochtitlan.png",
         narrative: "Un an plus tard. Vous êtes revenu. Renforts de Cuba, reconstruction de l'armée, et surtout : 200 000 guerriers alliés (Tlaxcala, Texcoco, tous les ennemis des Aztèques). Vous avez construit 13 brigantins (petits navires) pour contrôler le lac. Mais surtout, un allié invisible et terrible vous a précédé : la variole. L'épidémie a décimé Tenochtitlan. Cuitláhuac, le nouvel empereur, est mort de la maladie après 80 jours de règne. Cuauhtémoc, jeune et déterminé, a pris le pouvoir. La ville est affaiblie, mais elle résiste férocement. Commence le siège le plus brutal de l'histoire des Amériques : 75 jours d'enfer, mai-août 1521.",
         essential: "La variole a été l'arme la plus meurtrière de la conquête. Importée involontairement par les Européens, elle a tué 90% des Aztèques malades (aucune immunité). Le siège de Tenochtitlan a duré 75 jours : famine, combats de rue, destruction quasi-totale de la ville.",
         moreInfo: `
@@ -650,7 +650,7 @@ const stepsData = [
     {
         title: "Capture de Cuauhtémoc",
         subtitle: "Tenochtitlan, août 1521",
-        image: "/mnt/user-data/uploads/guerrier_jaguar.png",
+        image: "/images/guerrier_jaguar.png",
         narrative: "13 août 1521. Le siège se termine. Cuauhtémoc tente de fuir en canot avec les derniers nobles aztèques. Vos brigantins le capturent. L'empereur déchu vous est présenté : jeune (25 ans), fier, épuisé. Il vous tend son poignard d'obsidienne : 'Tue-moi maintenant, j'ai fait tout ce qu'un chef doit faire pour défendre son peuple.' Mais vos hommes crient qu'il connaît l'emplacement du trésor royal. Des tonnes d'or cachées quelque part. Cuauhtémoc refuse de parler. L'empire aztèque est tombé. Que faire du dernier empereur ?",
         essential: "La chute de Tenochtitlan marque la fin de l'empire aztèque (13 août 1521). Cuauhtémoc a été capturé vivant. Cortés l'a d'abord traité honorablement, puis l'a fait torturer pour trouver l'or, sans résultat. Il l'a gardé prisonnier 4 ans avant de l'exécuter lors d'une expédition au Honduras.",
         moreInfo: `
